@@ -1,6 +1,6 @@
 # Dad Jokes
 
-> Nuxt.js app that ists corny dad jokes. Uses the [icanhazdadjoke.com API](https://icanhazdadjoke.com/api)
+> Nuxt.js app that lists corny dad jokes. Uses the [icanhazdadjoke.com API](https://icanhazdadjoke.com/api)
 
 ## Build Setup
 
